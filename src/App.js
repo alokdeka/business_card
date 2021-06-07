@@ -8,7 +8,7 @@ function App() {
       <div className="row">
         <div className="col-sm-6 image_div"><img src="image/photo.png" className="my_photo" alt=""/></div>
         <div className="col-sm-6 details p-4">
-          <p className="text-center thank_you">Thank you so much for getting here! I'm Alok, web developer</p>
+          <p className="text-center thank_you">Thank you so much for getting here! I'm Alok, a web developer</p>
           <p className="text-uppercase reach_me">Reach me on</p>
           <div className="icons">
             <a href="https://www.linkedin.com/in/alok-deka-473b2662/"><i className="bi bi-linkedin"></i></a>          
