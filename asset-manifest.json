@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/business_card/static/css/main.83d99e28.chunk.css",
-    "main.js": "/business_card/static/js/main.56b073d5.chunk.js",
-    "main.js.map": "/business_card/static/js/main.56b073d5.chunk.js.map",
+    "main.js": "/business_card/static/js/main.05835658.chunk.js",
+    "main.js.map": "/business_card/static/js/main.05835658.chunk.js.map",
     "runtime-main.js": "/business_card/static/js/runtime-main.8d457e2c.js",
     "runtime-main.js.map": "/business_card/static/js/runtime-main.8d457e2c.js.map",
     "static/css/2.77881540.chunk.css": "/business_card/static/css/2.77881540.chunk.css",
@@ -14,13 +14,14 @@
     "static/css/2.77881540.chunk.css.map": "/business_card/static/css/2.77881540.chunk.css.map",
     "static/css/main.83d99e28.chunk.css.map": "/business_card/static/css/main.83d99e28.chunk.css.map",
     "static/js/2.26a077ed.chunk.js.LICENSE.txt": "/business_card/static/js/2.26a077ed.chunk.js.LICENSE.txt",
-    "static/media/bootstrap-icons.css": "/business_card/static/media/bootstrap-icons.dfd0ea12.woff2"
+    "static/media/bootstrap-icons.css": "/business_card/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/photo.b07dbe88.png": "/business_card/static/media/photo.b07dbe88.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8d457e2c.js",
     "static/css/2.77881540.chunk.css",
     "static/js/2.26a077ed.chunk.js",
     "static/css/main.83d99e28.chunk.css",
-    "static/js/main.56b073d5.chunk.js"
+    "static/js/main.05835658.chunk.js"
   ]
 }
